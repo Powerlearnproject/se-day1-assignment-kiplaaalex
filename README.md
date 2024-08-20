@@ -8,11 +8,21 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is a process of coming up with a software
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
 
+Identify and describe at least three key milestones in the evolution of software engineering.
+1.strucured programming-of 1970 this one improved code clarity,development and maintenance
+2.object oriented-of 1980 this one emphasize on modularity,reusabilty and abstraction
+3.agile methodologies of 2000- focuses on iterative, collaborative, flexibible development pocess to adapt changes
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Requirement Analysis: Define project goals and gather requirements.
+2. Planning: Create a project plan with timelines and resources.
+3. Design: Outline the software architecture and design components.
+4. Implementation: Write the code following the design.
+5. Testing: Test the software to identify and fix issues.
+6. Deployment: Release the software to the production environment.
+7. Maintenance: Monitor and update the software as needed.
+8. Review and Feedback: Collect feedback and improve the process.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
